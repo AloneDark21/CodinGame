@@ -1,2 +1,2 @@
 # CodinGame
-Bu kütüphanede CodinGame Sitesindeki Görevlerin Java Dilindeki Çözümleri
+-> Bu kütüphanede CodinGame Sitesindeki Görevlerin Java Dilindeki Çözümleri
